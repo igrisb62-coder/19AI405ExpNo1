@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Ssudharsan S</h3>
+<h3>Name: Sudharsan S</h3>
 <h3>Register Number: 212224040335 /h3>
 
 
